@@ -1,1 +1,6 @@
+# Setup
 .idea/*
+.env
+
+# Cache
+var/cache/*
