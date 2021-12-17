@@ -3,4 +3,6 @@
 .env
 
 # Cache
+var/*
 var/cache/*
+var/log/*
